@@ -18,6 +18,6 @@ and administrators.
 I'm also a [CIRCUIT Research Fellow](https://www.jhuapl.edu/circuit/){:style="text-decoration: none"}{:target="_blank"} at the
 [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/){:style="text-decoration: none"}{:target="_blank"}.
 
-If you have any general inquiries, are interested in open source projects, would like to connect,
+If you have any general inquiries, are interested in open source projects, or would like to connect,
 feel free to reach me at my email address (on the left panel) or
 [LinkedIn](https://www.linkedin.com/in/sebastian-c2022){:style="text-decoration: none"}{:target="_blank"}. Thanks!

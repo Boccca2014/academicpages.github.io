@@ -12,7 +12,7 @@ redirect_from:
 Resume
 ======
 <iframe 
-  src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=50" 
+  src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=FitW" 
   title="My Resume" 
   width="100%"
   height="100%"
@@ -22,7 +22,7 @@ Resume
 LinkedIn
 ======
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge">Sebastian Cabrejos</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sebastian-c2022" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/sebastian-c2022?trk=profile-badge"></a></div>
               
 
 <!-- Education

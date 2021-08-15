@@ -18,10 +18,10 @@ Resume
 ======
 <div style="display: flex; justify-content: center;">
   <iframe 
-    src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=94" 
+    src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=auto" 
     title="My Resume" 
     width="80%"
-    height="800px"
+    height="1050px"
     >
   </iframe>
 </div>

@@ -12,7 +12,7 @@ redirect_from:
 Resume
 ======
 <iframe 
-  src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf" 
+  src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf#zoom=50" 
   title="My Resume" 
   width="100%"
   height="100%"

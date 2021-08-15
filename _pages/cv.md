@@ -11,7 +11,10 @@ redirect_from:
 
 Resume
 ======
-* [Resume](https://boccca2014.github.io/files/Resume_2021.pdf){:style="text-decoration: none"}{:target="_blank"}
+<iframe 
+  src="https://boccca2014.github.io/files/Sebastian_Cabrejos_Resume_August_2021.pdf" 
+  title="My Resume">
+</iframe>
 
 LinkedIn
 ======
